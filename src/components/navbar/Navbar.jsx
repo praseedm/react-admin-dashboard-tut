@@ -46,7 +46,7 @@ const Navbar = () => {
             <ListOutlinedIcon className="icon" />
           </div>
           <div className="item">
-            <img src="https://picsum.photos/200" className="avatar" />
+            <img src="https://picsum.photos/200" className="avatar" alt="" />
           </div>
         </div>
       </div>
